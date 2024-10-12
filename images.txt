@@ -1,3 +1,4 @@
+mysql/mysql-server:5.7
 hn4930/go-view-serve:latest
 hn4930/go-view:latest
 grafana/grafana:latest
