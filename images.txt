@@ -1,3 +1,4 @@
+hn4930/go-view-serve:latest
 hn4930/go-view:latest
 grafana/grafana:latest
 nginx
