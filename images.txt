@@ -1,3 +1,4 @@
+openjdk:8-jdk-alpine
 mysql/mysql-server:5.7
 hn4930/go-view-serve:latest
 hn4930/go-view:latest
