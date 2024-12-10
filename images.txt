@@ -1,3 +1,4 @@
+nginx:stable-alpine3.17
 python:3.9
 anapsix/alpine-java:8_server-jre_unlimited
 maven:3.8.5-openjdk-8
