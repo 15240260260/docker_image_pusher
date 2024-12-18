@@ -1,3 +1,4 @@
+grafana/grafana:latest
 node:16.13.1
 nginx:stable-alpine3.17
 python:3.9
@@ -7,7 +8,6 @@ openjdk:8-jdk-alpine
 mysql/mysql-server:5.7
 hn4930/go-view-serve:latest
 hn4930/go-view:latest
-grafana/grafana:latest
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
