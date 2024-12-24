@@ -1,3 +1,4 @@
+smark/snmpd:latest
 grafana/grafana:latest
 node:16.13.1
 nginx:stable-alpine3.17
