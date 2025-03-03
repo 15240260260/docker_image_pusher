@@ -1,3 +1,4 @@
+metabase/metabase:latest
 smark/snmpd:latest
 grafana/grafana:latest
 node:16.13.1
