@@ -1,3 +1,4 @@
+tdengine/tdengine:3.0.7.0
 ubuntu:20.04
 metabase/metabase:latest
 smark/snmpd:latest
